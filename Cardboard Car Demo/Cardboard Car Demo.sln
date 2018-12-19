@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cardboard Car Demo.CSharp.Plugins", "Cardboard Car Demo.CSharp.Plugins.csproj", "{4DDFD5AC-54DE-9265-E78C-8A8509F8A802}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cardboard Car Demo.CSharp", "Cardboard Car Demo.CSharp.csproj", "{B92B057D-F416-992D-C9F1-AB54A2203BE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cardboard Car Demo.CSharp.Editor", "Cardboard Car Demo.CSharp.Editor.csproj", "{66172D67-8B66-62E7-FB87-123A89304CAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DDFD5AC-54DE-9265-E78C-8A8509F8A802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DDFD5AC-54DE-9265-E78C-8A8509F8A802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DDFD5AC-54DE-9265-E78C-8A8509F8A802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DDFD5AC-54DE-9265-E78C-8A8509F8A802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B92B057D-F416-992D-C9F1-AB54A2203BE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B92B057D-F416-992D-C9F1-AB54A2203BE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B92B057D-F416-992D-C9F1-AB54A2203BE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B92B057D-F416-992D-C9F1-AB54A2203BE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66172D67-8B66-62E7-FB87-123A89304CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66172D67-8B66-62E7-FB87-123A89304CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66172D67-8B66-62E7-FB87-123A89304CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66172D67-8B66-62E7-FB87-123A89304CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
